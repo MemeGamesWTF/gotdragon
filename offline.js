@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739447876,
+	"version": 1739450052,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,10 @@
 		"media/coin collect (1).ogg",
 		"media/fire.m4a",
 		"media/fire.ogg",
+		"media/you know nothin.m4a",
+		"media/you know nothin.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
 		"media/bg (1).m4a",
 		"media/bg (1).ogg",
 		"icon-16.png",

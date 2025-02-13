@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739446354,
+	"version": 1739447876,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,12 @@
 		"images/tiledbackground.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/coin collect (1).m4a",
+		"media/coin collect (1).ogg",
+		"media/fire.m4a",
+		"media/fire.ogg",
+		"media/bg (1).m4a",
+		"media/bg (1).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
